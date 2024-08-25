@@ -1,0 +1,10 @@
+name: JoinerLeaver
+version: '${project.version}'
+author: [ e-splat ]
+description: 'A simple and clean way to customize the join and leave message'
+main: net.esplat.joinerleaver.Main
+api-version: '1.13'
+commands:
+  jlreload:
+
+
